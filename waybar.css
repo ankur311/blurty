@@ -35,7 +35,7 @@
 }
 
 tooltip {
-  background-color: @waybarBg;
+  background-color: #00072d;
   padding: 8px 12px;
   border: 1px solid @accent_blue;
 }
